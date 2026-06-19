@@ -11,7 +11,7 @@ function App() {
     >
       <img
         src="https://via.placeholder.com/150"
-        alt="John Doe"
+        alt="VENKATESH KN"
         style={{
           borderRadius: "50%",
           width: "150px",
