@@ -19,7 +19,7 @@ function App() {
         }}
       />
 
-      <h1>John Doe</h1>
+      <h1>VENKATESH KN</h1>
       <h3>Full Stack Developer</h3>
 
       <p>
